@@ -1,0 +1,30 @@
+body {
+    background: url("../images/background.jpg");
+    background-size: cover;
+}
+
+.crystalGem {
+    height: 125px;
+    width: auto;
+}
+
+.enemy {
+    height: 400px;
+    width: auto;
+    padding-top: 50px;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+}
+
+.description {
+    padding-top: 20px;
+    border: 3px solid #464749;
+    background-color: #8a8c8e;
+}
+
+h3 {
+    text-align: center;
+}
